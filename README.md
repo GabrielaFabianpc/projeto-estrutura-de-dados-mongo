@@ -1,8 +1,9 @@
 # Projeto de Banco de Dados - Java + MongoDB
 
-## Estudante
+## Integrantes
 
-**Gabriela Fabian Pires Costa**
+- Gabriela Fabian Pires Costa
+- Jeniffer Silva Chagas
 
 ## Descrição
 
@@ -210,4 +211,4 @@ Credenciais de acesso ao banco de dados não devem ser armazenadas ou publicadas
 
 ---
 
-**Projeto desenvolvido por Gabriela Fabian Pires Costa.**
+**Projeto desenvolvido por Gabriela Fabian Pires Costa e Jeniffer Silva Chagas.**
